@@ -1,0 +1,21 @@
+html,
+body {
+    background-color: pink;
+    text-align: center;
+    margin-top: 80px;
+}
+
+p {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+a {
+    font-size: 70px;
+    color: blue;
+    
+}
+img {
+    width: 120px;
+    
+}
